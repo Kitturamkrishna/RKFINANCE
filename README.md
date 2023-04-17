@@ -11,7 +11,7 @@ It can also check overall record of a local customer or full detail of a single 
 Python is used as Front End and MySQL is used as Back End.
 
 
-#System Requirements
+# System Requirements
 
 
 IDE                                 :  Python Latest Version  Pycharm inbuilt pipinstalled
